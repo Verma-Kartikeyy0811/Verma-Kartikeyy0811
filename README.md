@@ -29,6 +29,7 @@
 
   **Languages & Markup**
   <br/>
+  <br/>
   <img align="center" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"
   title="Python"/>
   &nbsp;&nbsp;&nbsp;
@@ -39,9 +40,9 @@
   <img align="center" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C (Learning)"/>
 
   <br/>
-  <br/>
 
   **JavaScript & MERN Stack**
+  <br/>
   <br/>
   <img align="center" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"
   title="MongoDB"/>
