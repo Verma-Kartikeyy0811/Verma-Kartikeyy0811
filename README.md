@@ -21,7 +21,7 @@
   ➣ 💻 **Deep diving into MERN stack development and exploring the world of programming.**<br/>
   ➣ 🤝 **Always looking to collaborate on Full Stack Projects and open-source opportunities.**<br/>
   ➣ 📫 **Shoot me an email at my [College Email](mailto:kv1814@srmist.edu.in) or [Personal Email](mailto:vermakartikey0811@gmail.com).**<br/>
-  ➣ ⚡ **When I'm off the keyboard: You'll find me spiking a volleyball on the court or grinding away at PC games.**
+  ➣ ⚡ **When I'm off the keyboard: You'll find me receiving a volleyball on the court or grinding away at PC games.**
 
   <br/>
 
