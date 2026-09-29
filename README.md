@@ -1,51 +1,47 @@
-  # Hi I'm Kartikey Verma 👋
+ <div align="center">
+    <h1>Hi there, I'm Kartikey Verma! 👋</h1>
+    <p><em>17-year-old student at SRM Delhi-NCR | Aspiring Full-Stack Developer</em></p>
 
-  <br>
+    <p>
+      <a href="mailto:vermakartikey0811@gmail.com"><img
+  src="https://img.shields.io/badge/Email-vermakartikey0811@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      <a href="https://www.linkedin.com/in/verma-kartikey0811"><img
+  src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://instagram.com/kartikey_ik"><img
+  src="https://img.shields.io/badge/Instagram-@kartikey__ik-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    </p>
+  </div>
 
-  📬 **Contact Me at**
+  ---
 
-  <a href="mailto:vermakartikey0811@gmail.com"><img src="https://img.shields.io/badge/Personal-D14836?style=flat-square&logo=gmail&logoColor=white"
-  alt="Personal Email" /></a>
-  <a href="mailto:kv1814@srmist.edu.in"><img src="https://img.shields.io/badge/CollegeID-D14836?style=flat-square&logo=gmail&logoColor=white" alt="College
-  Email" /></a>
-  <a href="https://www.linkedin.com/in/verma-kartikey0811"><img
-  src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/kartikey_ik"><img src="https://img.shields.io/badge/@kartikey__ik-E4405F?style=flat-square&logo=instagram&logoColor=white"
-  alt="Instagram" /></a>
+  ### 👨‍💻 About Me
 
-  - 🎓 I am a 17-year-old college student studying at **SRM Delhi-NCR**.
-  - 🧐 I'm looking for Full Stack Projects.
-  - 🤖 Open Source and tech enthusiast.
-  - 📫 How to reach me: [vermakartikey0811@gmail.com](mailto:vermakartikey0811@gmail.com)
-  - 😄 Pronouns: he/him.
-  - ⚡ Fun fact: I sit in front of my laptop staring at my code and love to play badminton.
+  - 🎓 Currently pursuing my studies at **SRM University Delhi-NCR**.
+  - 💻 Deep diving into **MERN stack** development and exploring the world of programming.
+  - 🤝 Always looking to collaborate on **Full Stack Projects** and open-source opportunities.
+  - 📫 Shoot me an email at my **[College Email](mailto:kv1814@srmist.edu.in)** or **[Personal Email](mailto:vermakartikey0811@gmail.com)**.
+  - ⚡ **When I'm off the keyboard:** You'll find me spiking a **volleyball** on the court or grinding away at **PC games**.
 
-  ### Top Technologies
+  ---
 
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  ### 🛠️ Tech Stack & Tools
 
-  **MERN Stack:**
-  <br />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  **Languages & Markup**
+  <code><img width="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
+  <code><img width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/></code>
+  <code><img width="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/></code>
+  <code><img width="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C (Learning)"/></code>
 
-  *(Note: Currently still learning C!)*
+  **JavaScript & MERN Stack**
+  <code><img width="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/></code>
+  <code><img width="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" title="Express.js"/></code>
+  <code><img width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React"/></code>
+  <code><img width="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/></code>
 
-  ### Work Related
+  *(Note: Currently learning and improving my C fundamentals!)*
 
-  - **personal ID:** [vermakartikey0811@gmail.com](mailto:vermakartikey0811@gmail.com)
-  - **college ID:** [kv1814@srmist.edu.in](mailto:kv1814@srmist.edu.in)
+  ---
 
-  ### Profile Visits
-
-  ![Visitors](https://komarev.com/ghpvc/?username=Verma-Kartikey0811&color=blue&style=flat-square)
-
-  ### Github Stats
-
-  [![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verma-Kartikey0811&show_icons=true&theme=dark)](https://github.com/anuragh
-  azra/github-readme-stats)
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Verma-Kartikey0811&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </div>
