@@ -2,13 +2,13 @@
 
     # 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗞𝗮𝗿𝘁𝗶𝗸𝗲𝘆 𝗩𝗲𝗿𝗺𝗮! 👋
 
-    <p><em>17-𝙮𝙚𝙖𝙧-𝙤𝙡𝙙 𝙨𝙩𝙪𝙙𝙚𝙣𝙩 𝙖𝙩 𝙎𝙍𝙈 𝘿𝙚𝙡𝙝𝙞-𝙉𝘾𝙍 | 𝘼𝙨𝙥𝙞𝙧𝙞𝙣𝙜 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧</em></p>
+  <p><em>17-𝙮𝙚𝙖𝙧-𝙤𝙡𝙙 𝙨𝙩𝙪𝙙𝙚𝙣𝙩 𝙖𝙩 𝙎𝙍𝙈 𝘿𝙚𝙡𝙝𝙞-𝙉𝘾𝙍 | 𝘼𝙨𝙥𝙞𝙧𝙞𝙣𝙜 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧</em></p>
 
-    <a href="mailto:vermakartikey0811@gmail.com"><img
+  <a href="mailto:vermakartikey0811@gmail.com"><img
   src="https://img.shields.io/badge/Email-vermakartikey0811@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/verma-kartikey0811"><img
+   <a href="https://www.linkedin.com/in/verma-kartikey0811"><img
   src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://instagram.com/kartikey_ik"><img
+  <a href="https://instagram.com/kartikey_ik"><img
   src="https://img.shields.io/badge/Instagram-@kartikey__ik-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
   </div>
